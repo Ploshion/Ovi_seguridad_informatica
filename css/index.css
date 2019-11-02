@@ -401,6 +401,8 @@ div.content img { max-width: 45%; }
 	.center { margin: 0 auto; width: 550px; }
 	.center img { width: 100%;	}
 
-	
+	#color {
+		color: gray;
+	}
 
 	
