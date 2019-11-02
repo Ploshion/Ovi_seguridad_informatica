@@ -164,6 +164,18 @@ main{
 	position : absolute;
 	padding  : 10px;
 	overflow: auto;
+	text-align: center;
+}
+
+main img{
+	float: left;
+	width: 40%;
+}
+main p{
+	/*float: left;*/
+	width: 50%;
+	padding: 40px;
+	float: left;
 }
 
 footer{
